@@ -1,3 +1,3 @@
-export default function Category() {
+export default async function Category() {
   return <h1>Category</h1>
 }
